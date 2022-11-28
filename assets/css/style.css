@@ -84,6 +84,16 @@ body{
     color: #FFFFFF;
 }
 
+.btn span{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 26px;
+    /* identical to box height, or 236% */
+    color: #BAB7D4;
+}
+
 #usr1{
     background: #FFFFFF;
     border: 2px solid #FF7979;
@@ -146,5 +156,7 @@ body{
     .btn2{
         margin-top: 20px;
     }
+
+
 }
 
